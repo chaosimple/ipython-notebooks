@@ -1,5 +1,6 @@
 ipython-notebooks
 ========================
+用Python实现Andrew Ng机器学习课程上的所有代码
 
 This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting.  I've included notebook viewer links below.  Click the link to see a live rendering of the notebook.
 
